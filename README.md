@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm RAVI TEJA B N</h1>
+<h1 align="center">Hi 👋, I'm RAVI TEJA B N
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ravitejabn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ravitejabn?trk=profile-badge">RAVITEJA B N</a></div></h1>
 <h3 align="center">A passionate frontend developer and game dev from India</h3>
 
 - 🔭 I’m currently working on [vtucloud](https://vtucloud.in/)
@@ -25,5 +26,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammade&show_icons=true&locale=en&layout=compact" alt="iammade" /></p>
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ravitejabn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ravitejabn?trk=profile-badge">RAVITEJA B N</a></div>
+
               
